@@ -1,0 +1,19 @@
+| German                                                 | Chinese                           | English                                          | French                                                     |
+|:-------------------------------------------------------|:----------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
+| von mir aus                                            | 随便我 / 我无所谓                 | fine by me / whatever                            | ça m’est égal / comme tu veux                              |
+| die Verwendung                                         | 使用 / 应用 / 用途                | use / usage / application                        | l’utilisation / l’usage                                    |
+| heulen                                                 | 哭 / 嚎啕大哭                     | to cry / to wail / to bawl                       | pleurer / hurler / sangloter fort                          |
+| ausrasten                                              | 暴走 / 发飙                       | to freak out / to lose it                        | péter un câble / perdre le contrôle                        |
+| valeur                                                 | 价值 / 数值 / 重要性              | value / worth / importance                       | valeur / importance / chiffre                              |
+| Klettergutschein                                       | 攀岩代金券 / 攀岩体验券           | climbing voucher / gift certificate              | bon pour l’escalade / chèque-cadeau                        |
+| Ich habe es günstig geschossen                         | 我捡了个便宜                      | I got it for a bargain                           | Je l’ai eu pour pas cher                                   |
+| Wagenschupse                                           | 停车棚 / 小车库                   | car shed / garage shed                           | abri pour voiture / hangar à voitures                      |
+| ungeheuer markant                                      | 异常显眼 / 极其醒目               | strikingly distinctive                           | extrêmement marquant                                       |
+| Dinge im Internet ersteigern                           | 在网上竞拍物品                    | to bid on things online                          | enchérir sur des objets en ligne                           |
+| Streichmusik                                           | 弦乐 / 弦乐音乐                   | string music / string ensemble music             | musique pour cordes                                        |
+| non sequitur                                           | 不合逻辑的推论 / 前后不一致       | non sequitur / illogical conclusion              | non sequitur / conclusion illogique                        |
+| Albernheit                                             | 幼稚 / 可笑 / 傻气                | silliness / foolishness / absurdity              | puérilité / niaiserie / absurdité                          |
+| semiotisch                                             | 符号学的 / 符号意义上的           | semiotic / relating to signs or symbols          | sémiotique / relatif aux signes                            |
+| sich anzusehen                                         | 观看 / 看一看 / 观察自己          | to look at / to take a look at / to watch        | regarder / jeter un coup d'œil / observer                  |
+| Ignoramus et ignorabimus (lateinisch)                  | 我们无知，也将永远无知 / 不可知论 | We do not know and we will not know / unknowable | Nous ne savons pas et nous ne saurons pas / inconnaissable |
+| Die SPD verhöhnt die Interessen der Arbeitnehmerschaft | 社民党嘲弄了劳动群体的利益        | The SPD mocks the interests of the working class | Le SPD se moque des intérêts des travailleurs              |
