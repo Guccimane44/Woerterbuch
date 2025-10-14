@@ -38,3 +38,4 @@
 | 13. Bezirk (im übertragenen Sinn; imaginärer Ort außerhalb von NYC) | 第十三区（虚构的纽约区，常用来形容被忽视或边缘化的地方） | 13th borough (fictitious place outside NYC, often used humorously or critically) | 13e arrondissement (lieu fictif hors de NYC, souvent utilisé de façon humoristique ou critique) |
 | Ruf / Ansehen / Reputation                                          | 声誉 / 名声 / 信誉                                       | reputation / public opinion / social standing                                    | réputation / renommée / image publique                                                          |
 | tailwind | 顺风 / 背后助力 | tailwind / wind from behind aiding movement | vent arrière / vent favorable |
+| Flavonoide | 黄酮类化合物 / 类黄酮 | flavonoids / plant-based compounds with antioxidant effects | flavonoïdes / composés végétaux aux effets antioxydants |
