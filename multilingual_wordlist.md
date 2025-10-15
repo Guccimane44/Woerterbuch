@@ -39,3 +39,16 @@
 | Ruf / Ansehen / Reputation                                          | 声誉 / 名声 / 信誉                                       | reputation / public opinion / social standing                                    | réputation / renommée / image publique                                                          |
 | tailwind | 顺风 / 背后助力 | tailwind / wind from behind aiding movement | vent arrière / vent favorable |
 | Flavonoide | 黄酮类化合物 / 类黄酮 | flavonoids / plant-based compounds with antioxidant effects | flavonoïdes / composés végétaux aux effets antioxydants |
+| Propeller | 螺旋桨 / 推进器 | propeller / rotating blade for propulsion | hélice / propulseur rotatif |
+| Kessel | 锅 / 釜 / 锅炉 | kettle / boiler / cauldron | chaudron / bouilloire / chaudière |
+| erschwinglich | 可负担的 / 买得起的 | affordable / reasonably priced | abordable / à un prix raisonnable |
+| Flotten | 舰队 / 机队 / 车队 | fleets (of ships, aircraft, vehicles) | flottes (de navires, d’avions, de véhicules) |
+| flotter (Komparativ von flott) | 更轻快的 / 更时尚的 / 更迅速的 | more lively / snappier / faster / more stylish | plus vif / plus rapide / plus stylé |
+| es flottet (ugs.) | （口语）一切顺利 / 很带感 / 很顺 / 很酷 | it’s going well / it flows / it vibes / it’s cool | ça roule / ça marche bien / c’est stylé (fam.) |
+| Verweis | 指示 / 引用 / 警告处分 | reference / reprimand / citation | renvoi / référence / réprimande |
+| Entschließung | 决议 / 决定 / 表决文案 | resolution / formal decision / declaration | résolution / décision formelle / déclaration |
+| Promenade | 散步区 / 林荫大道 / 漫步 | promenade / walkway / leisurely stroll | promenade / allée / balade |
+| Jungfernfahrt | 首航 / 初次行驶 / 处女航 | maiden voyage / first trip (of a vehicle or vessel) | voyage inaugural / premier trajet |
+| Die Sprache ist das Vehikel aller geistigen Tätigkeit | 语言是所有精神活动的载体 | Language is the vehicle of all intellectual activity | Le langage est le véhicule de toute activité intellectuelle |
+| Malapropismus | 用词错误 / 荒唐滑稽的词语误用 | malapropism / ludicrous misuse of a word | malapropisme / emploi comique d’un mot incorrect |
+
