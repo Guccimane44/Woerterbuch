@@ -51,4 +51,34 @@
 | Jungfernfahrt | 首航 / 初次行驶 / 处女航 | maiden voyage / first trip (of a vehicle or vessel) | voyage inaugural / premier trajet |
 | Die Sprache ist das Vehikel aller geistigen Tätigkeit | 语言是所有精神活动的载体 | Language is the vehicle of all intellectual activity | Le langage est le véhicule de toute activité intellectuelle |
 | Malapropismus | 用词错误 / 荒唐滑稽的词语误用 | malapropism / ludicrous misuse of a word | malapropisme / emploi comique d’un mot incorrect |
+| penetrant | 刺鼻的 / 惹人烦的 / 穿透性的 | penetrating / intense / annoying (e.g. smell, sound, behavior) | pénétrant / entêtant / agaçant |
+| schnucklig (ugs.) | 可爱的 / 迷人的 / 暖心的 | cute / cozy / adorable / charming (colloquial) | mignon / adorable / charmant (fam.) |
+| Manege | 马戏团圆形舞台 / 驯马场 | circus ring / arena / riding ring | manège / piste de cirque / carrière équestre |
+| Ein niedliches Kind | 一个可爱的孩子 | a cute child / an adorable kid | un enfant mignon / un gamin adorable |
+| Niedlich mit dem Äffchen | 和小猴子一起很可爱 / 带着猴子显得很萌 | cute with the little monkey / adorable with the monkey | mignon avec le petit singe / trop chou avec le singe |
+| Exposé | 概要 / 提纲 / 简介文案 | exposé / summary / project outline | exposé / résumé / présentation de projet |
+| stammeln | 结结巴巴地说 / 吞吞吐吐地表达 | to stammer / to mumble / to speak haltingly | balbutier / bredouiller / parler en bégayant |
+| entbehren | 缺少 / 无法拥有 / 忍受没有… | to do without / to lack / to be deprived of | se passer de / manquer de / être privé de |
+| Köter (ugs., abwertend) | 癞狗 / 野狗 / 破狗（贬义） | mutt / mongrel / lousy dog (pejorative) | clébard / chien de rue / sale chien (péjoratif) |
+| Gesocks (derb, abwertend) | 乌合之众 / 渣滓 / 社会败类 | riffraff / scum / rabble (derogatory) | racaille / vermine / populace (péjoratif) |
+| ramponiert | 破烂的 / 残破的 / 身心俱疲的 | battered / worn-out / in bad shape | abîmé / esquinté / en mauvais état |
+| Nuss | 坚果 / 螺母 /（口）脑袋 / 家伙 | nut / head (slang) / tough guy / nut to crack | noix / tête (fam.) / dur à cuire |
+| Emanze (abwertend) | 女权激进分子 / 女权斗士（贬义） | feminist (pejorative) / radical feminist woman | féministe radicale / femme émancipée (péjoratif) |
+| Gardine | 窗帘 / 薄纱帘 / 布帘 | curtain / sheer curtain / drape | rideau / voilage / tenture |
+| Kübel | 桶 / 大盆 / （口）一大堆 | bucket / tub / (coll.) a load of sth. | seau / bac / (fam.) une tonne de |
+| sprießen | 萌芽 / 发芽 / 快速增长 | to sprout / to bud / to spring up | bourgeonner / germer / surgir |
+| Die wollen uns mit Gammelfraß vollstopfen | 他们想拿腐烂食物塞满我们 / 他们想喂我们垃圾食品 | They want to stuff us with rotten food / They want to feed us garbage | Ils veulent nous gaver de bouffe avariée / de saletés |
+| stopfen | 塞入 / 堵住 / 使劲塞 / 狼吞虎咽 | to stuff / to cram / to plug / to gobble up | fourrer / boucher / bourrer / engloutir |
+| knabbern | 咬 / 啃 / 小口吃 / 嗑（零食） | to nibble / to snack / to gnaw | grignoter / mordiller / ronger |
+| hänseln | 嘲笑 / 捉弄 / 起外号（多针对儿童） | to tease / to mock / to pick on (esp. children) | se moquer / taquiner / harceler (scolaire) |
+| Petze (ugs., abwertend) | 告密者 / 打小报告的人 / 小告状精 | tattletale / snitch / sneak (pejorative) | cafteur / rapporteur / balance (fam. & péj.) |
+| verkloppen (ugs., derb) | 痛揍 / 狠狠打 / 修理某人 | to beat up / to thrash / to smack around (coll.) | tabasser / casser la figure à / cogner (fam.) |
+| Geusenwort | 贬词转正 / 本为侮辱词后被自豪采用的词 | reclaimed slur / formerly offensive term used with pride | terme péjoratif réapproprié / insulte revendiquée |
+| Kanaken (stark abwertend, rassistisch) | “土人” / 对外来移民的贬称（尤指土耳其人等） | racial slur for immigrants (esp. of Turkish/Arab descent) | insulte raciste pour désigner des immigrés (surtout turcs ou arabes) |
+| nach oben, um die Ecke kieken (ugs., scherzhaft) | 翘辫子 / 死掉（幽默说法） | to die / to kick the bucket (humorous: "look upward around the corner") | mourir / passer l’arme à gauche (expression humoristique) |
+| Sold | 军饷 / 兵饷 / 士兵工资 | soldier’s pay / military wage / service pay | solde / paie militaire / traitement du soldat |
+| augenfällig | 显眼的 / 显而易见的 / 一目了然的 | obvious / striking / readily apparent | évident / frappant / manifeste |
+| das Plagiat | 抄袭 / 剽窃 / 侵权作品 | plagiarism / copied work / intellectual theft | plagiat / contrefaçon intellectuelle |
+| Terminamnesie | 忘记约定 / 时间遗忘症 / 丢三落四（轻微认知错乱） | terminamnesia / forgetting appointments or dates | terminamnésie / oubli fréquent des rendez-vous |
+| Geburtstag des Wellensittichs (ironisch) | 鸟的生日 / 鸟毛借口 / （敷衍推托的理由） | birthday of the budgie (ironic excuse / flimsy pretext) | l’anniversaire de la perruche (prétexte bidon / excuse ironique) |
 
