@@ -83,4 +83,5 @@
 | Geburtstag des Wellensittichs (ironisch) | 鸟的生日 / 鸟毛借口 / （敷衍推托的理由） | birthday of the budgie (ironic excuse / flimsy pretext) | l’anniversaire de la perruche (prétexte bidon / excuse ironique) |
 | Russland wähnt sich laut Michail Chodorkowski im Krieg mit der NATO | 据米哈伊尔·霍多尔科夫斯基称，俄罗斯自认为正在与北约交战 | According to Mikhail Khodorkovsky, Russia believes itself to be at war with NATO | Selon Mikhaïl Khodorkovski, la Russie se croit en guerre avec l’OTAN |
 | Anfall / Beschlagnahme | 发作 / 癫痫 / 没收 / 查封 | seizure / epileptic fit / confiscation | crise / saisie / confiscation |
+| prunkvoll / reich verziert / kunstvoll | 华丽的 / 装饰繁复的 / 精雕细琢的 | ornate / elaborately decorated / richly adorned | orné / richement décoré / chargé |
 
