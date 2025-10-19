@@ -84,4 +84,15 @@
 | Russland wähnt sich laut Michail Chodorkowski im Krieg mit der NATO | 据米哈伊尔·霍多尔科夫斯基称，俄罗斯自认为正在与北约交战 | According to Mikhail Khodorkovsky, Russia believes itself to be at war with NATO | Selon Mikhaïl Khodorkovski, la Russie se croit en guerre avec l’OTAN |
 | Anfall / Beschlagnahme | 发作 / 癫痫 / 没收 / 查封 | seizure / epileptic fit / confiscation | crise / saisie / confiscation |
 | prunkvoll / reich verziert / kunstvoll | 华丽的 / 装饰繁复的 / 精雕细琢的 | ornate / elaborately decorated / richly adorned | orné / richement décoré / chargé |
+| teufeln (selten, veraltet / ugs.) | 咒骂 / 抱怨 / 恼怒地发牢骚 | to curse / to rant / to be furious (dated/colloquial) | jurer / râler / fulminer (vieilli/fam.) |
+| Wahrhaftigkeit / Wahrheitstreue / Zuverlässigkeit | 真实性 / 诚实 / 准确性 | veracity / truthfulness / accuracy / reliability | véracité / sincérité / exactitude / fiabilité |
+| Schrank / Kleiderschrank | 衣柜 / 橱柜 / 大柜子 | armoire / wardrobe / large cabinet | armoire / placard / penderie |
+| Polemik | 激烈争论 / 辩驳性文章 / 抨击言论 | polemic / controversial argument / sharp critique | polémique / attaque verbale / controverse vive |
+| Anschuldigung | 指控 / 控诉 / 指责 | accusation / allegation / charge | accusation / allégation / reproche |
+| Übersäuerung | 酸性过高 / 体内酸中毒 / 酸碱失衡 | over-acidification / acidosis / excess acidity | acidification / acidose / déséquilibre acido-basique |
+| prekär | 危险的 / 不稳定的 / 岌岌可危的 | precarious / insecure / critical / unstable | précaire / instable / critique |
+| Ausgleichsplättchen / Distanzscheibe / Unterlegplättchen | 垫片 / 调整片 / 微调垫块 | shim / thin spacer / adjustment washer | cale / cale de réglage / entretoise mince |
+| Tacheles (ugs. Aus Yiddish)  | 直说 / 坦率说 / 开门见山地讲 | straight talk / plain speaking / speak frankly | parler franchement / dire les choses comme elles sont |
+| undurchsichtig / lichtundurchlässig / unklar | 不透明的 / 难懂的 / 模糊的 | opaque / not transparent / hard to understand | opaque / non transparent / obscur / difficile à comprendre |
+
 
