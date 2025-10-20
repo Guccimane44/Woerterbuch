@@ -94,5 +94,8 @@
 | Ausgleichsplättchen / Distanzscheibe / Unterlegplättchen | 垫片 / 调整片 / 微调垫块 | shim / thin spacer / adjustment washer | cale / cale de réglage / entretoise mince |
 | Tacheles (ugs. Aus Yiddish)  | 直说 / 坦率说 / 开门见山地讲 | straight talk / plain speaking / speak frankly | parler franchement / dire les choses comme elles sont |
 | undurchsichtig / lichtundurchlässig / unklar | 不透明的 / 难懂的 / 模糊的 | opaque / not transparent / hard to understand | opaque / non transparent / obscur / difficile à comprendre |
+| straucheln | 绊倒 / 踉跄 / （比喻）失败 / 陷入困境 | to stumble / to falter / to struggle / to slip up | trébucher / chanceler / fléchir (fig.) |
+| Bitte entnehmen Sie die Anzahl ECTS Ihrer Studienordnung. | 请查阅您的学习规定以了解 ECTS 学分数量。 | Please refer to your study regulations to find the number of ECTS credits. | Veuillez consulter votre règlement d’études pour connaître le nombre de crédits ECTS. |
+
 
 
