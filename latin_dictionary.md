@@ -7,3 +7,4 @@
 | ad libitum | nach Belieben / frei wählbar | at one’s pleasure / as you wish |
 | ad maiorem Dei gloriam | zur größeren Ehre Gottes | for the greater glory of God |
 | advocatus diaboli | der Teufelsadvokat / der Gegenanwalt | devil’s advocate |
+| culpa in contrahendo | Verschulden bei Vertragsverhandlungen | fault in concluding a contract / pre-contractual liability |
