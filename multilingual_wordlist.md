@@ -96,6 +96,18 @@
 | undurchsichtig / lichtundurchlässig / unklar | 不透明的 / 难懂的 / 模糊的 | opaque / not transparent / hard to understand | opaque / non transparent / obscur / difficile à comprendre |
 | straucheln | 绊倒 / 踉跄 / （比喻）失败 / 陷入困境 | to stumble / to falter / to struggle / to slip up | trébucher / chanceler / fléchir (fig.) |
 | Bitte entnehmen Sie die Anzahl ECTS Ihrer Studienordnung. | 请查阅您的学习规定以了解 ECTS 学分数量。 | Please refer to your study regulations to find the number of ECTS credits. | Veuillez consulter votre règlement d’études pour connaître le nombre de crédits ECTS. |
+| nahtlose Integration | 无缝集成 / 平滑整合 / 流畅融合 | seamless integration / smooth incorporation | intégration transparente / intégration sans couture |
+| nicht ausverhandelte Standardverträge | 未经协商的标准合同 / 统一格式合同 | non-negotiated standard contracts / boilerplate agreements | contrats types non négociés / accords standards imposés |
+| Die Herstellung des Werkes den Umständen nach nur gegen eine Vergütung zu erwarten ist. | 根据情况，只能在有报酬的情况下期待作品的完成。 | According to the circumstances, the production of the work can only be expected in return for remuneration. | Selon les circonstances, on ne peut s’attendre à la réalisation de l’ouvrage que contre rémunération. |
+| vergüten | 支付报酬 / 补偿 / 给付（劳动或损失） | to compensate / to remunerate / to reimburse | rémunérer / indemniser / compenser |
+| Kostenanschlag | 费用估算 / 报价单 / 成本预算 | cost estimate / quotation / estimated budget | devis / estimation des coûts / offre de prix |
+| hohe Messlatte | 高标准 / 高门槛 / 严格要求 | high bar / high standard / demanding benchmark | barre haute / exigence élevée / norme ambitieuse |
+| Wucher | 高利贷 / 恶意敛财 / 价格暴利 | usury / exorbitant pricing / profiteering | usure / prix abusif / exploitation financière |
+| Gutachten | 鉴定 / 专家意见 / 评估报告 | expert report / assessment / expert opinion | expertise / rapport d’expert / avis technique |
+| Entschädigung | 赔偿 / 补偿 / 补偿金 | compensation / indemnity / reparation | indemnisation / compensation / réparation |
+| Entgegennahme | 接收 / 接受 / 签收 / 收取 | receipt / acceptance / taking delivery | réception / acceptation / prise en charge |
+| Wer raunt wie die AfD, bekämpfen sie nicht. | 那些像德国选择党一样暗示、低语的人，并没有在反对他们。 | Those who whisper like the AfD are not fighting them. | Ceux qui murmurent comme l’AfD ne la combattent pas. |
+| wettern | 怒骂 / 抨击 / 激烈批评 / 咆哮 | to rant / to rail / to fulminate / to thunder (against) | fulminer / tempêter / pester violemment contre |
 
 
 
