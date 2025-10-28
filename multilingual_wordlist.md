@@ -108,6 +108,48 @@
 | Entgegennahme | 接收 / 接受 / 签收 / 收取 | receipt / acceptance / taking delivery | réception / acceptation / prise en charge |
 | Wer raunt wie die AfD, bekämpfen sie nicht. | 那些像德国选择党一样暗示、低语的人，并没有在反对他们。 | Those who whisper like the AfD are not fighting them. | Ceux qui murmurent comme l’AfD ne la combattent pas. |
 | wettern | 怒骂 / 抨击 / 激烈批评 / 咆哮 | to rant / to rail / to fulminate / to thunder (against) | fulminer / tempêter / pester violemment contre |
+| toben | 狂怒 / 吵闹 / 喧闹 / 发飙 | to rage / to rampage / to storm / to go wild | se déchaîner / s’emporter / faire rage |
+| Flusen (Pl.) | 绒毛 / 纤维屑 / 小毛絮 | lint / fluff / fuzz / tiny fibres | peluches / fibres / peluches textiles |
+| zulässig / annehmbar / erlaubt | 可接受的 / 合法的 / 可采纳的 | admissible / acceptable / legally permitted | admissible / recevable / acceptable / permis |
+| das Gerüst | 脚手架 / 支架 / （比喻）支撑结构 | the scaffolding / structural framework / supporting structure | l’échafaudage / structure de soutien / cadre de travail |
+| der Chef / der Boss / der Obermacker (ugs.) | 老大 / 头头 / 领导 | head honcho / big boss / top dog | grand patron / chef / gros bonnet (fam.) |
+| vorläufig / zögerlich / unsicher | 暂定的 / 试探性的 / 不确定的 | tentative / provisional / hesitant / uncertain | provisoire / hésitant / incertain |
+| Ethos, Logos und Pathos | 品格 / 理性 / 情感（修辞三要素） | ethos, logos, and pathos (appeals to credibility, logic, and emotion) | ethos, logos et pathos (appel à la crédibilité, à la logique et à l’émotion) |
+| doppelläufig / doppeltbenannt / doppeldeutig (je nach Kontext) | 双管的 / 双重的 / 双层含义的 | double-barreled / having two barrels or dual meaning / compound | à deux canons / double / à double sens |
+| Fast schon genervt im Ton schleuderte er ihnen entgegen | 他用几乎不耐烦的语气冲他们抛出话语。 | Almost irritated in tone, he hurled his words at them. | Presque agacé dans le ton, il leur lança ses paroles. |
+| Der Kanzler nimmt mir die Worte ab. | 总理抢先说出了我想说的话。 / 总理替我把话说出来了。 | The chancellor takes the words right out of my mouth. | Le chancelier me retire les mots de la bouche. |
+| Hatte das Gefühl, die Situation könnte kippen. | 感觉局势可能会失控 / 情况可能要恶化。 | Had the feeling the situation could tip over / could turn bad. | Avait le sentiment que la situation pouvait basculer. |
+| Die Wahrheit sollte man in diesem Land nur noch hinter vorgehaltener Hand sagen. | 在这个国家，说真话似乎只能悄悄地、遮着嘴巴说了。 | In this country, one should only dare to tell the truth in a whisper / behind one’s hand. | Dans ce pays, on ne devrait dire la vérité qu’à voix basse, la main devant la bouche. |
+| obschon | 尽管 / 虽然 / 即使 | although / even though / though | bien que / quoique / même si |
+| Akteur | 行动者 / 参与者 / 演员 / 关键人物 | actor / player / stakeholder / key figure | acteur / protagoniste / intervenant |
+| Man sieht das beim Abspannen nicht so sehr. | 在片尾字幕时那一点不太明显。 / 在收尾阶段看不太出来。 | You don’t really notice that during the credits / at the end. | On ne le remarque pas tellement pendant le générique / à la fin. |
+| Mitmenschen | 同胞 / 同类 / 他人 / 周围的人 | fellow human beings / other people / fellow men | semblables / concitoyens / autres personnes |
+| rumgelungert (ugs., Partizip von rumlungern) | 游荡 / 闲逛 / 无所事事地待着 | hung around / loitered / lounged about | traîné / glandé / flâné sans but |
+| lungern | 游荡 / 闲混 / 无所事事地待着 | to loiter / to hang around / to lounge about | traîner / glander / flâner sans but |
+| Vorkehrung | 预防措施 / 防范 / 安排 | precaution / preventive measure / provision | précaution / mesure préventive / disposition |
+| aufwühlen | 翻起 / 搅动 / 触动内心 / 激起情绪 | to stir up / to churn / to agitate / to unsettle emotionally | remuer / bouleverser / agiter / troubler profondément |
+| entwenden | 偷窃 / 盗取 / 偷走（正式用语） | to steal / to purloin / to pilfer (formal) | dérober / subtiliser / voler (registre soutenu) |
+| vorspulen | 快进 / 向前播放 / 跳过内容 | to fast-forward / to skip ahead / to wind forward | avancer rapidement / faire défiler en avant / passer (une partie) |
+| Mucke (ugs.) | 音乐 / 曲子 / 声音（口语） | music / tune / jam (slang) | zik / musique / morceau (fam.) |
+| einweihen | 启用 / 揭幕 / 告知秘密 / 引入 | to inaugurate / to consecrate / to initiate / to let someone in on (a secret) | inaugurer / consacrer / initier / mettre dans la confidence |
+| verschärfen / verschlimmern / erschweren | 加剧 / 恶化 / 使更加严重 | to exacerbate / to worsen / to aggravate / to intensify | aggraver / empirer / intensifier |
+| veranlassen | 促使 / 安排 / 指示 / 引发 | to cause / to prompt / to arrange / to instruct | faire en sorte / provoquer / ordonner / amener à |
+| Beschlagnahme | 没收 / 扣押 / 查封 / 充公 | seizure / confiscation / impoundment | saisie / confiscation / réquisition |
+| Frevel | 亵渎 / 冒犯 / 罪过 / （旧）不道德行为 | sacrilege / outrage / sin / atrocity / wrongdoing | sacrilège / outrage / faute morale / forfait |
+| Er ist außen hart, aber innen sanft. | 他外表坚硬，内心温柔。 | He is hard on the outside, gentle on the inside. | Il est dur à l’extérieur, mais doux à l’intérieur. |
+| Extra für Sie! | 专门为您准备的！ / 特意为您！ | Especially for you! / Just for you! | Spécialement pour vous ! / Rien que pour vous ! |
+| Coole Aktion | 酷的举动 / 很棒的活动 / 给力的行为 | cool move / awesome action / great initiative | action cool / super initiative / coup sympa |
+| übertünchen | 掩饰 / 粉饰 / 掩盖真相 | to whitewash / to gloss over / to cover up | dissimuler / masquer / enjoliver / blanchir |
+| Es kotzt mich so an. (vulg., ugs.) | 我真他妈受够了 / 这事让我恶心透了 | It pisses me off / It really disgusts me / I’m so fed up | Ça me dégoûte / Ça me saoule grave / J’en ai ras le bol |
+| Nichtanlieger | 非本地住户 / 非沿街居民 / 非该地通行者 | non-resident / non-local driver / person not living on the premises | non-riverain / personne non résidente / usager extérieur |
+| Stark, zieh durch! (ugs., motivierend) | 加油，坚持到底！ / 很棒，继续干下去！ | Nice, keep it up! / Stay strong, push through! | Super, continue comme ça ! / Tiens bon, va jusqu’au bout ! |
+| schüren | 煽动 / 激起 / 挑起 / 添火 | to stir up / to fuel / to incite / to fan (the flames) | attiser / alimenter / susciter / enflammer |
+| gesellschaftliche Sitte / sozialer Brauch | 社会习俗 / 社交惯例 / 风俗习惯 | social custom / social convention / societal norm | coutume sociale / usage social / habitude culturelle |
+| Knast (ugs.) | 监狱 / 看守所 / 坐牢（口语） | jail / slammer / lock-up (slang) | taule / prison (fam.) / cabane |
+| Krümel | 面包屑 / 碎屑 / 小渣滓 / （昵称）小家伙 | crumb / tiny bit / little piece / (affectionately) little one | miette / petit morceau / miettes / (surnom) petit bout |
+| K.O.-Tropfen | 迷奸药 / 迷晕滴剂 / 使人昏迷的药物 | knockout drops / date rape drug / stupefying substance | gouttes K.O. / drogue du viol / substance sédative |
+| Die Armen speisen / die Armen ernähren | 喂饱穷人 / 救济贫困者 | feed the poor / provide food for the needy | nourrir les pauvres / donner à manger aux démunis |
+| Triage / Sichtung | 分诊 / 分类处理 / 优先级筛查 | triage / sorting by priority / medical prioritization | triage / classement par priorité / sélection médicale |
 
 
 
