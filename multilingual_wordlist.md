@@ -150,6 +150,14 @@
 | K.O.-Tropfen | 迷奸药 / 迷晕滴剂 / 使人昏迷的药物 | knockout drops / date rape drug / stupefying substance | gouttes K.O. / drogue du viol / substance sédative |
 | Die Armen speisen / die Armen ernähren | 喂饱穷人 / 救济贫困者 | feed the poor / provide food for the needy | nourrir les pauvres / donner à manger aux démunis |
 | Triage / Sichtung | 分诊 / 分类处理 / 优先级筛查 | triage / sorting by priority / medical prioritization | triage / classement par priorité / sélection médicale |
+| feierlich / ernst / würdevoll | 庄严的 / 严肃的 / 隆重的 | solemn / serious / dignified / ceremonial | solennel / sérieux / grave / empreint de dignité |
+| anspielungsreich / indirekt / bildhaft | 暗指的 / 含蓄的 / 富有典故的 | allusive / indirect / hinting / rich in references | allusif / implicite / riche en allusions |
+| pingelig / kleinlich / übergenau | 挑剔的 / 爱计较的 / 过分讲究细节的 | finicking / fussy / fastidious / overly particular | pointilleux / tatillon / minutieux à l’excès |
+| kabbalistisch / geheimnisvoll / mystisch | 卡巴拉的 / 神秘的 / 玄奥的 | kabbalistic / mystical / esoteric | kabbalistique / mystique / ésotérique |
+| ballistisch / wütend (ugs.) | 弹道的 / 勃然大怒的（口语） | ballistic / furious / relating to projectiles | balistique / furieux / relatif aux projectiles |
+| Strohmann / Scheinargument | 稻草人 / 虚假论点 / 幌子人物 | straw man / false argument / front man | homme de paille / argument fallacieux / prête-nom |
+| pompös / aufgeblasen / wichtigtuerisch | 自负的 / 浮夸的 / 装腔作势的 | pompous / self-important / pretentious / grandiloquent | pompeux / prétentieux / solennel à l’excès |
+| Tics / nervöse Zuckungen | 抽动 / 神经性习惯动作 / 小动作 | tics / nervous twitches / involuntary movements | tics / contractions nerveuses / mouvements involontaires |
 
 
 
