@@ -158,6 +158,38 @@
 | Strohmann / Scheinargument | 稻草人 / 虚假论点 / 幌子人物 | straw man / false argument / front man | homme de paille / argument fallacieux / prête-nom |
 | pompös / aufgeblasen / wichtigtuerisch | 自负的 / 浮夸的 / 装腔作势的 | pompous / self-important / pretentious / grandiloquent | pompeux / prétentieux / solennel à l’excès |
 | Tics / nervöse Zuckungen | 抽动 / 神经性习惯动作 / 小动作 | tics / nervous twitches / involuntary movements | tics / contractions nerveuses / mouvements involontaires |
+| **Anlaufstelle** | 咨询点 / 服务机构 / 联系处 / 求助处 | contact point / help desk / drop-in center / point of contact | point de contact / centre d’accueil / service de référence |
+| **Tektonische Platten verschieben sich** | 构造板块在移动 / 板块发生位移 | tectonic plates are shifting / moving | les plaques tectoniques se déplacent |
+| **Vorvergreisungsgeneration** | 早衰的一代 / 未老先衰的一代 | prematurely aged generation / generation growing old too soon | génération de vieillissement prématuré / génération vieillissante trop tôt |
+| **Begleiterscheinung** | 伴随现象 / 附带反应 / 并发情况 | accompanying phenomenon / side effect / concomitant symptom | phénomène concomitant / effet secondaire / manifestation associée |
+| **einbeziehen** | 包括 / 纳入 / 涉及 / 使参与 | to include / to involve / to incorporate / to take into account | inclure / impliquer / intégrer / prendre en compte |
+| **zugewandtes Gespräch** | 关怀的谈话 / 富有同理心的交流 / 温和沟通 | caring conversation / empathetic dialogue / compassionate talk | conversation bienveillante / dialogue empathique / échange attentif |
+| **sich entziehen** | 逃避 / 躲避 / 摆脱 / 不受影响 | to evade / to withdraw from / to escape / to elude | se soustraire à / échapper à / se retirer de |
+| **Machtkonstellation** | 权力格局 / 权力结构 / 权力关系布局 | power constellation / power structure / constellation of power | constellation de pouvoir / configuration du pouvoir / rapport de force |
+| **Affektbestrafung** | 情绪惩罚 / 因一时冲动而实施的惩罚 | punishment driven by emotion / impulsive punishment | punition sous l’emprise de l’émotion / sanction impulsive |
+| **brüchig** | 脆的 / 易碎的 / 不稳固的 / 破裂的 | brittle / fragile / cracked / unstable | fragile / cassant / fissuré / précaire |
+| **alles, was reingetan wird** | 所有放进去的东西 / 投入的所有内容 | everything that is put in / everything that goes in | tout ce qui est mis dedans / tout ce qu’on y met |
+| **stigmatisiert** | 被污名化的 / 被贴上标签的 / 受歧视的 | stigmatized / labeled / branded / discriminated against | stigmatisé / étiqueté / marqué / discriminé |
+| **konzipiert** | 设计的 / 构思的 / 策划的 / 规划的 | designed / conceived / planned / structured | conçu / élaboré / planifié / imaginé |
+| **Sensibilisierung plus Resilienz** | 提高敏感度与增强韧性 / 意识培养与抗压能力相结合 | sensitization plus resilience / awareness combined with resilience | sensibilisation plus résilience / prise de conscience et résistance psychique |
+| **Je mehr Menschen heute ihre Individualität ausdehnen und die Dinge ›persönlich‹ nehmen, umso leichter fühlen sie sich gekränkt.** | 越来越多的人强调个性、把事情往心里去，因此也就越容易感到受伤。 | The more people today expand their sense of individuality and take things “personally,” the more easily they feel offended. | Plus les gens aujourd’hui étendent leur individualité et prennent les choses « personnellement », plus ils se sentent facilement blessés. |
+| **Angststillstand** | 因恐惧而陷入的停滞 / 被恐惧冻结的状态 | paralysis by fear / fear-induced standstill / frozen by anxiety | paralysie par la peur / blocage dû à l’angoisse |
+| **beherzt** | 勇敢的 / 果断的 / 有决心的 / 充满勇气的 | courageous / bold / determined / spirited | courageux / résolu / hardi / plein de cœur |
+| **Schwätzer** | 喋喋不休的人 / 光说不做的人 / 吹牛者 | blabbermouth / chatterbox / big talker / windbag | bavard / beau parleur / moulin à paroles |
+| **wie Philosoph Karl Jaspers das nannte, dass man mit etwas zu tun hat, das einen selbst überschreitet.** | 正如哲学家卡尔·雅斯贝尔斯所说，那是人面对某种超越自我的事物的情形。 | as philosopher Karl Jaspers called it — being confronted with something that transcends oneself. | comme l’a nommé le philosophe Karl Jaspers : avoir affaire à quelque chose qui nous dépasse. |
+| **letztlich** | 最终 / 归根结底 / 说到底 | ultimately / in the end / after all / at the end of the day | finalement / en fin de compte / au bout du compte |
+| **entrinnen** | 逃脱 / 脱离 / 逃避（多用于抽象意义） | to escape / to elude / to get away from | échapper à / se soustraire à / fuir |
+| **Bedeutung entgegenbringen** | 赋予重要性 / 给予重视 / 认为有意义 | to attach importance / to give significance / to ascribe meaning | accorder de l’importance / donner du sens / attribuer une signification |
+| **Dann zieht sich das durch die Zeiten.** | 那么这件事就贯穿了各个时代。 / 这种情况一直延续至今。 | Then it runs through the ages / Then it persists through time / It carries on through the ages | Alors cela se prolonge à travers les âges / Cela traverse les époques |
+| **subsumieren** | 归入 / 纳入 / 包含于（上位概念之下） | to subsume / to classify under / to include within a category | subsumer / classer sous / inclure dans une catégorie |
+| **Markus Gabriel zehrt vom Nimbus des philosophischen Wunderkinds.** | 马库斯·加布里埃尔依靠着“哲学神童”的光环。 | Markus Gabriel feeds off the aura of the philosophical prodigy. | Markus Gabriel se nourrit du prestige de l’enfant prodige de la philosophie. |
+| **Befund** | 结果 / 诊断结果 / 调查发现 / 现状 | finding / result / diagnosis / state of affairs | constat / résultat / diagnostic / constatation |
+| **die Nische** | 壁龛 / 小空间 / 利基 / 小众领域 | niche / alcove / small space / niche market | niche / renfoncement / créneau / secteur spécialisé |
+| **Gemengelage** | 混合局势 / 复杂形势 / 错综状况 | tangled situation / complex mix / intricate constellation | situation mêlée / conjoncture complexe / enchevêtrement |
+| **diametral** | 截然相反的 / 对立的 / 直径方向的 | diametrical / completely opposite / polar | diamétral / opposé / contraire |
+| **Gesichtspunkte** | 观点 / 视角 / 考虑因素 / 立场 | points of view / aspects / perspectives / considerations | points de vue / aspects / perspectives / considérations |
+| **überdies** | 此外 / 而且 / 再者 / 除此之外 | moreover / besides / in addition / furthermore | de plus / en outre / par ailleurs |
+| **Schmackofatz** (ugs.) | 美味佳肴 / 好吃的东西 / 让人垂涎的食物 | delicious treat / yummy dish / tasty bite | gourmandise / petit plat délicieux / truc super bon |
 
 
 
