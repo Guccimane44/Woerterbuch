@@ -192,6 +192,23 @@
 | **Schmackofatz** (ugs.) | 美味佳肴 / 好吃的东西 / 让人垂涎的食物 | delicious treat / yummy dish / tasty bite | gourmandise / petit plat délicieux / truc super bon |
 | **teils** | 部分地 / 一方面 / 有的 / 有时 | partly / in part / partially / some | en partie / partiellement / parfois |
 | **Ich verstehe Philosophie als eine Intervention in den Zeitgeist, um dort eben nach teils verbogenen und auch teils offenkündigen Fehlschlüsseln, eben für uns als Menschen gefährlichen Irrtümern zu suchen, um sie dann mit den Methoden der Philosophie zu korrigieren, wenn man so will, auch zu heilen.** | 我将哲学理解为对时代精神的一种介入——去寻找那些部分被扭曲、部分显而易见、对人类有害的错误观念，并尝试用哲学的方法加以纠正，甚至可以说是治愈它们。 | I understand philosophy as an intervention in the spirit of the times — to seek out the partly distorted and partly obvious false conclusions, the errors dangerous to us as human beings, and then to correct them, or if you will, to heal them, by philosophical means. | Je comprends la philosophie comme une intervention dans l’esprit du temps — pour y chercher les erreurs, parfois déformées, parfois manifestes, dangereuses pour nous en tant qu’êtres humains, afin de les corriger, voire, si l’on veut, de les guérir à l’aide des méthodes philosophiques. |
+| **Bestreitung des freien Willens** | 对自由意志的否认 / 否定自由意志的观点 | denial of free will / refutation of free will / rejection of the concept of free will | négation du libre arbitre / contestation du libre arbitre |
+| **Schlawittchen** (ugs.) | 衣领 / 脖领处（比喻地：揪住某人） | collar / scruff (figuratively: by the collar) | collet / par le collet (au sens figuré : attraper par le col) |
+| **am Schlawittchen** (ugs.) | （揪住）衣领 / （比喻）抓住某人 / 逮到某人 | by the collar / by the scruff (figuratively: to catch or grab someone) | par le collet / attraper quelqu’un par le col (fig.) |
+| **unheimliche Erfahrung** | 诡异的经历 / 可怕的体验 / 令人毛骨悚然的经验 | uncanny experience / eerie experience / unsettling encounter | expérience inquiétante / troublante / angoissante |
+| **im Grunde genommen** | 归根结底 / 其实 / 本质上 / 说到底 | basically / essentially / fundamentally / at the end of the day | en gros / au fond / en essence / en fin de compte |
+| **Epizentrum** | 震中 / 中心点 / 核心区域（也作比喻用） | epicenter / centre / focal point | épicentre / centre / point focal |
+| **Einheimische** | 当地人 / 本地居民 / 土著居民 | local / native / inhabitant / resident | habitant / autochtone / résident local |
+| **Man macht sich immer etwas vor.** | 人总是欺骗自己一点 / 人总爱自我安慰 / 人难免自欺 | One always deceives oneself a little / People always fool themselves / We always delude ourselves | On se trompe toujours un peu soi-même / On se berce d’illusions |
+| **Abgesang** | 尾声 / 终章 / 衰落的征兆 / 结束的预兆 | swan song / final phase / decline / epilogue | chant du cygne / phase finale / déclin / épilogue |
+| **Wohlbehagen** | 舒适 / 愉悦 / 满足感 / 安逸 | well-being / comfort / contentment / sense of ease | bien-être / confort / contentement / sentiment d’aise |
+| **halfen uns sogar über den Kummer hinweg** | 他们甚至帮助我们走出了悲伤 / 他们帮我们克服了忧伤 | even helped us get over the sorrow / helped us overcome our grief | nous ont même aidés à surmonter le chagrin / à dépasser la tristesse |
+| **Das Sexualleben werde sich irgendwann wieder einstellen.** | 性生活总有一天会恢复正常。 / 性生活迟早会重新开始。 | The sex life will eventually return / The sexual life will resume at some point | La vie sexuelle finira par revenir / reprendra tôt ou tard |
+| **Sie lässt sich von meinen Witzen anstecken.** | 她被我的笑话感染了 / 她也被我逗乐了 | She lets herself be infected by my jokes / She catches my laughter / She can’t help but laugh at my jokes | Elle se laisse gagner par mes blagues / Mon rire est contagieux pour elle |
+| **Wegen der plötzlichen Anwandlung hat er den Vertrag zurückgewiesen.** | 因一时的情绪冲动，他拒绝了合同。 / 因突然的情绪起伏，他否决了协议。 | Because of a sudden impulse, he rejected the contract. / He turned down the agreement due to a sudden emotional surge. | À cause d’une impulsion soudaine, il a rejeté le contrat. |
+| **reglos** | 一动不动的 / 静止的 / 没有反应的 | motionless / still / inert / unmoving | immobile / sans mouvement / figé / inerte |
+| **drollig wirkender Sohn** | 看起来滑稽可爱的儿子 / 显得逗趣的儿子 | comical-looking son / funny-appearing son / son who seems amusing | fils à l’air drôle / fils au comportement amusant |
+| **patriotisch gesinnter Mensch** | 爱国心强的人 / 有爱国情怀的人 | patriotically minded person / person with patriotic sentiments | personne d’esprit patriotique / homme ou femme animé(e) d’un sentiment patriotique |
 
 
 
