@@ -191,6 +191,7 @@
 | **überdies** | 此外 / 而且 / 再者 / 除此之外 | moreover / besides / in addition / furthermore | de plus / en outre / par ailleurs |
 | **Schmackofatz** (ugs.) | 美味佳肴 / 好吃的东西 / 让人垂涎的食物 | delicious treat / yummy dish / tasty bite | gourmandise / petit plat délicieux / truc super bon |
 | **teils** | 部分地 / 一方面 / 有的 / 有时 | partly / in part / partially / some | en partie / partiellement / parfois |
+| **Ich verstehe Philosophie als eine Intervention in den Zeitgeist, um dort eben nach teils verbogenen und auch teils offenkündigen Fehlschlüsseln, eben für uns als Menschen gefährlichen Irrtümern zu suchen, um sie dann mit den Methoden der Philosophie zu korrigieren, wenn man so will, auch zu heilen.** | 我将哲学理解为对时代精神的一种介入——去寻找那些部分被扭曲、部分显而易见、对人类有害的错误观念，并尝试用哲学的方法加以纠正，甚至可以说是治愈它们。 | I understand philosophy as an intervention in the spirit of the times — to seek out the partly distorted and partly obvious false conclusions, the errors dangerous to us as human beings, and then to correct them, or if you will, to heal them, by philosophical means. | Je comprends la philosophie comme une intervention dans l’esprit du temps — pour y chercher les erreurs, parfois déformées, parfois manifestes, dangereuses pour nous en tant qu’êtres humains, afin de les corriger, voire, si l’on veut, de les guérir à l’aide des méthodes philosophiques. |
 
 
 
