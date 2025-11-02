@@ -190,6 +190,8 @@
 | **Gesichtspunkte** | 观点 / 视角 / 考虑因素 / 立场 | points of view / aspects / perspectives / considerations | points de vue / aspects / perspectives / considérations |
 | **überdies** | 此外 / 而且 / 再者 / 除此之外 | moreover / besides / in addition / furthermore | de plus / en outre / par ailleurs |
 | **Schmackofatz** (ugs.) | 美味佳肴 / 好吃的东西 / 让人垂涎的食物 | delicious treat / yummy dish / tasty bite | gourmandise / petit plat délicieux / truc super bon |
+| **teils** | 部分地 / 一方面 / 有的 / 有时 | partly / in part / partially / some | en partie / partiellement / parfois |
+
 
 
 
