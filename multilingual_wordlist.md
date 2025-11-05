@@ -209,6 +209,7 @@
 | **reglos** | 一动不动的 / 静止的 / 没有反应的 | motionless / still / inert / unmoving | immobile / sans mouvement / figé / inerte |
 | **drollig wirkender Sohn** | 看起来滑稽可爱的儿子 / 显得逗趣的儿子 | comical-looking son / funny-appearing son / son who seems amusing | fils à l’air drôle / fils au comportement amusant |
 | **patriotisch gesinnter Mensch** | 爱国心强的人 / 有爱国情怀的人 | patriotically minded person / person with patriotic sentiments | personne d’esprit patriotique / homme ou femme animé(e) d’un sentiment patriotique |
+| **Superlativ** | 最高级 / 极端表达 / 最高程度 | superlative / highest degree / utmost | superlatif / degré le plus élevé / expression extrême |
 
 
 
