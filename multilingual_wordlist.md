@@ -210,6 +210,45 @@
 | **drollig wirkender Sohn** | 看起来滑稽可爱的儿子 / 显得逗趣的儿子 | comical-looking son / funny-appearing son / son who seems amusing | fils à l’air drôle / fils au comportement amusant |
 | **patriotisch gesinnter Mensch** | 爱国心强的人 / 有爱国情怀的人 | patriotically minded person / person with patriotic sentiments | personne d’esprit patriotique / homme ou femme animé(e) d’un sentiment patriotique |
 | **Superlativ** | 最高级 / 极端表达 / 最高程度 | superlative / highest degree / utmost | superlatif / degré le plus élevé / expression extrême |
+| **Gewerkschaft** | 工会 / 职工联合会 / 劳工组织 | trade union / labor union / workers’ association | syndicat / union ouvrière / organisation des travailleurs |
+| **Gemahl** | 丈夫 / 配偶（多用于正式或文学语境） | husband / spouse (formal or literary) | époux / mari (langue soutenue) |
+| **Nahezu völlig vergessen ist, dass es um 1879 Bemühungen gab, Johann Strauss zu einer Fortsetzung der Operette zu bewegen.** | 几乎完全被人遗忘的是，大约在1879年曾有人努力劝说小约翰·施特劳斯继续创作那部轻歌剧。 | It is almost completely forgotten that around 1879 there were efforts to persuade Johann Strauss to continue the operetta. | On a presque complètement oublié qu’autour de 1879, il y eut des efforts pour convaincre Johann Strauss de poursuivre l’opérette. |
+| **Leider wird das Techtelmechtel vom Gefängnisdirektor Frank gestört.** | 可惜这段暧昧关系被监狱长弗兰克打断了。 | Unfortunately, the love affair is interrupted by the prison director Frank. | Malheureusement, la liaison amoureuse est interrompue par le directeur de la prison, Frank. |
+| **Da bleibt Alfred aus Rücksicht auf Rosalinde nichts übrig, als deren Gemahl zu spielen und sich ins Gefängnis abführen zu lassen.** | 出于对罗莎琳德的体谅，阿尔弗雷德别无选择，只能假扮她的丈夫，并任由自己被带进监狱。 | Out of consideration for Rosalinde, Alfred has no choice but to pretend to be her husband and let himself be taken to prison. | Par égard pour Rosalinde, Alfred n’a d’autre choix que de jouer le rôle de son mari et de se laisser conduire en prison. |
+| **Stellenwert** | 重要性 / 地位 / 价值 / 位值（数学用语） | significance / value / importance / place value (math) | importance / valeur / signification / valeur de position (math.) |
+| **Hier täuscht jeder jeden.** | 这里人人都在欺骗别人。 / 在这里，所有人都互相欺骗。 | Here everyone deceives everyone. / Everyone is fooling everyone else here. | Ici, tout le monde trompe tout le monde. |
+| **beweisbelastet** | 负有举证责任的 / 需要提供证据的 | burdened with proof / bearing the burden of proof / required to provide evidence | chargé de la preuve / ayant la charge de la preuve |
+| **Verjährungsfrist** | 诉讼时效期限 / 法定追诉期 / 权利失效期限 | statute of limitations / limitation period / prescriptive period | délai de prescription / période de prescription |
+| **Aufhebungsvertrag** | 解除合同 / 解约协议 / 雇佣关系终止协议 | termination agreement / cancellation contract / mutual termination of employment | accord de résiliation / contrat de rupture / convention de résiliation amiable |
+| **abzüglich der Einsparungen des Auftragnehmers und böswillig unterlassenem anderweitigem Erwerbs** | 扣除承包方节省的费用以及其恶意未获取的其他收入 | less the contractor’s savings and any other earnings maliciously not obtained | déduction faite des économies de l’entrepreneur et des gains alternatifs intentionnellement non réalisés |
+| **Vermutung, dass 5 % der Vergütung der noch nicht erbrachten Leistungen dem Auftragnehmer zustehen** | 推定尚未完成部分的报酬中有5%归承包方所有 | presumption that 5% of the remuneration for the unperformed services is due to the contractor | présomption que 5 % de la rémunération des prestations non exécutées revient à l’entrepreneur |
+| **zustehen** | 应得 / 属于（某人权利范围内） / 有权获得 | to be entitled to / to be due to / to rightfully belong to | revenir à / appartenir à / être dû à |
+| **Die Haftung sollte einvernehmlich begrenzt werden.** | 责任应通过双方协商予以限制。 | The liability should be mutually limited / The liability should be restricted by mutual agreement. | La responsabilité devrait être limitée d’un commun accord. |
+| **verhaftet** | 被逮捕的 / 被拘留的 | arrested / detained / taken into custody | arrêté / détenu / mis en garde à vue |
+| **vorhinein** (meist in: *von vornherein*) | 一开始 / 事先 / 从一开始就 | from the outset / from the very beginning / beforehand | dès le départ / d’emblée / au préalable |
+| **Rechtseinräumung** | 权利授予 / 权利让与 / 许可权的赋予 | granting of rights / assignment of rights / conferral of rights | concession de droits / octroi de droits / cession de droits |
+| **vorhin gegangen** | 刚才走了 / 刚离开 / 不久前走掉了 | just left / went a moment ago / left earlier | vient de partir / est parti tout à l’heure |
+| aufblähen / anschwellen / überladen / aufblasen | 膨胀 / 使鼓起 / 夸大 / 过度增长 | **bloat** | gonfler / enfler / exagérer / surcharger |
+| distanziert / zurückhaltend / unnahbar / reserviert | 冷漠的 / 疏远的 / 超然的 | **aloof** | distant / réservé / froid / à l’écart |
+| winzig / sehr klein | 微小的 / 极小的 | **minuscule** / tiny / minute / very small | minuscule / très petit / infime |
+| Einschaltquoten / Zuschauerquoten | 收视率 / 观众比率 | **viewing ratings** / audience share / TV ratings | taux d’audience / part d’écoute / audience télévisée |
+| krochen (Präteritum von „kriechen“) | 爬行 / 匍匐 / 慢慢移动 | **crawled** / crept / moved slowly | rampé / s’est traîné / avancé lentement |
+| Taskforce / Einsatzgruppe / Arbeitsgruppe | 专案组 / 特别工作组 / 行动小组 | **task force** / special unit / working group | groupe de travail / task force / unité spéciale |
+| Ich werde zum Marienplatz gehen | 我要去玛丽恩广场 | **I will go to Marienplatz** / I’m going to Marienplatz | J’irai à Marienplatz / Je vais à Marienplatz |
+| Telefonat / Anruf / Telefongespräch | 电话 / 通话 / 打电话 | **phone call** / telephone conversation / call | appel téléphonique / coup de fil / communication |
+| aus Versehen / versehentlich | 不小心 / 误做 / 无意中 | **by accident** / accidentally / by mistake | par accident / par erreur / par inadvertance |
+| Sintflut / Überschwemmung / Flut | 洪水 / 暴雨 / 泛滥 | **deluge** / flood / downpour / inundation | déluge / inondation / torrent de pluie |
+| Verknüpfungspunkt / Verbindungspunkt / Schnittstelle | 连接点 / 关联点 / 接口 | **connection point** / linking point / point of intersection | point de connexion / point de liaison / interface |
+| produktiv / schöpferisch / fruchtbar / ergiebig | 多产的 / 富有创造力的 / 丰富的 | **prolific** / productive / creative / fruitful | prolifique / productif / fécond |
+| Vorgehensmodell / Verfahrensmodell / Methodik | 方法模型 / 流程模型 / 操作方法 | **process model** / procedural model / methodological approach | modèle de procédure / modèle méthodologique / approche de processus |
+| handhaben / bedienen / umgehen mit | 操作 / 处理 / 掌握 / 应对 | **handle** / manage / operate / deal with | manipuler / manier / gérer / traiter |
+| Dem Kunden fällt ein / Der Kunde erinnert sich plötzlich | 顾客突然想起 / 客户想到了某事 | **The customer suddenly remembers** / it occurs to the customer / the client recalls something | Le client se souvient soudain / il vient à l’esprit du client |
+| Aneignung / Erwerb / Übernahme | 占有 / 学习 / 吸收 / 取得 | **appropriation** / acquisition / adoption / assimilation | appropriation / acquisition / adoption / assimilation |
+| Lackmus / Indikator / Prüfmittel | 石蕊 / 试纸 / 指示剂 | **litmus** / indicator / test substance | tournesol / indicateur / papier réactif |
+| altmodisch / reizvoll kurios / drollig | 古雅的 / 离奇可爱的 / 稍显古怪的 | **quaint** / charmingly old-fashioned / pleasingly unusual | pittoresque / charmant et ancien / curieux |
+| Experte / Fachmann / Kommentator | 专家 / 行家 / 评论员 | **pundit** / expert / commentator / authority | expert / commentateur / spécialiste |
+
+
 
 
 
